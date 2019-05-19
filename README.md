@@ -1,2 +1,2 @@
-# demo_one
+# demo
 A demo to practice
